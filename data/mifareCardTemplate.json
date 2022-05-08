@@ -1,0 +1,269 @@
+{
+  "Created": "pifare",
+  "FileType": "card",
+  "Card": {
+    "UID": "",
+    "ATQA": "",
+    "SAK": ""
+  },
+  "blocks": {
+    "0": "",
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": "",
+    "9": "",
+    "10": "",
+    "11": "",
+    "12": "",
+    "13": "",
+    "14": "",
+    "15": "",
+    "16": "",
+    "17": "",
+    "18": "",
+    "19": "",
+    "20": "",
+    "21": "",
+    "22": "",
+    "23": "",
+    "24": "",
+    "25": "",
+    "26": "",
+    "27": "",
+    "28": "",
+    "29": "",
+    "30": "",
+    "31": "",
+    "32": "",
+    "33": "",
+    "34": "",
+    "35": "",
+    "36": "",
+    "37": "",
+    "38": "",
+    "39": "",
+    "40": "",
+    "41": "",
+    "42": "",
+    "43": "",
+    "44": "",
+    "45": "",
+    "46": "",
+    "47": "",
+    "48": "",
+    "49": "",
+    "50": "",
+    "51": "",
+    "52": "",
+    "53": "",
+    "54": "",
+    "55": "",
+    "56": "",
+    "57": "",
+    "58": "",
+    "59": "",
+    "60": "",
+    "61": "",
+    "62": "",
+    "63": ""
+  },
+  "SectorKeys": {
+    "0": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block0": "",
+        "block1": "",
+        "block2": "",
+        "block3": "",
+        "UserData": ""
+      }
+    },
+    "1": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block4": "",
+        "block5": "",
+        "block6": "",
+        "block7": "",
+        "UserData": ""
+      }
+    },
+    "2": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block8": "",
+        "block9": "",
+        "block10": "",
+        "block11": "",
+        "UserData": ""
+      }
+    },
+    "3": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block12": "",
+        "block13": "",
+        "block14": "",
+        "block15": "",
+        "UserData": ""
+      }
+    },
+    "4": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block16": "",
+        "block17": "",
+        "block18": "",
+        "block19": "",
+        "UserData": ""
+      }
+    },
+    "5": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block20": "",
+        "block21": "",
+        "block22": "",
+        "block23": "",
+        "UserData": ""
+      }
+    },
+    "6": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block24": "",
+        "block25": "",
+        "block26": "",
+        "block27": "",
+        "UserData": ""
+      }
+    },
+    "7": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block28": "",
+        "block29": "",
+        "block30": "",
+        "block31": "",
+        "UserData": ""
+      }
+    },
+    "8": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block32": "",
+        "block33": "",
+        "block34": "",
+        "block35": "",
+        "UserData": ""
+      }
+    },
+    "9": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block36": "",
+        "block37": "",
+        "block38": "",
+        "block39": "",
+        "UserData": ""
+      }
+    },
+    "10": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block40": "",
+        "block41": "",
+        "block42": "",
+        "block43": "",
+        "UserData": ""
+      }
+    },
+    "11": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block44": "",
+        "block45": "",
+        "block46": "",
+        "block47": "",
+        "UserData": ""
+      }
+    },
+    "12": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block48": "",
+        "block49": "",
+        "block50": "",
+        "block51": "",
+        "UserData": ""
+      }
+    },
+    "13": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block52": "",
+        "block53": "",
+        "block54": "",
+        "block55": "",
+        "UserData": ""
+      }
+    },
+    "14": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block56": "",
+        "block57": "",
+        "block58": "",
+        "block59": "",
+        "UserData": ""
+      }
+    },
+    "15": {
+      "KeyA": "",
+      "KeyB": "",
+      "AccessConditions": "",
+      "AccessConditionsText": {
+        "block60": "",
+        "block61": "",
+        "block62": "",
+        "block63": "",
+        "UserData": ""
+      }
+    }
+  }
+}
