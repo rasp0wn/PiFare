@@ -22,7 +22,7 @@ sudo raspi-config
 
 ![Raspberry and RC522 wiring](./installation/images/Wiring.png "Raspberry and RC522 wiring")
 
-3. To install needed libs, execute the install script: 
+3. To install necessary libs, execute the install script: 
 ```
 ./installation/install.sh
 ```
