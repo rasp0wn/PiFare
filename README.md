@@ -2,17 +2,17 @@
 
 
 # 💳 About PiFare
-PiFare is a Raspberry Pi tool for reading Mifare classic 1k cards with a RC522 module via SPI. This project is for fun and for learn RFID related things.
+PiFare is a Raspberry Pi tool for reading Mifare classic 1k cards with a RC522 module via SPI. This project is for fun and for learning RFID related things.
 
-PiFare is based on these projects (I have changed the prints for working with Python3): 
+PiFare is based on these projects (I have changed the "print" statements to make them work with Python3): 
 
 * MFRC522-python: https://github.com/mxgxw/MFRC522-python (using it for reading with the RC522 module)
-* SPI-Py: https://github.com/lthiery/SPI-Py (using commit 8cce26b9ee6e69eb041e9d5665944b88688fca68 to prevent some errors)
+* SPI-Py: https://github.com/lthiery/SPI-Py (using commit 8cce26b9ee6e69eb041e9d5665944b88688fca68 as the last commit does not seem to work)
 
 
 # 📝Installation 
 
-1. First, you need to enable SPI in the Raspberry pi: https://pimylifeup.com/raspberry-pi-spi/
+1. First, you need to enable SPI interface in the Raspberry pi: https://pimylifeup.com/raspberry-pi-spi/
 
 ```
 sudo raspi-config
@@ -46,3 +46,12 @@ All the information related to the card read is saved in /data/{UID}.json file (
 ![Data from json file](./installation/images/jsonwithdata1.png "Data from json file")
 
 ![Data from json file](./installation/images/jsonwithdata2.png "Data from json file")
+
+
+# 📂 Documentation
+Here you can find useful information about Mifare Clasic 1k: https://github.com/XaviTorello/mifare-classic-toolkit
+
+
+# ✅ To do
+- [ ] Create a "Write" mode to write data into the cards
+- [ ] Fill "AccessConditions" and "AccessConditionsText" information in the json files.
